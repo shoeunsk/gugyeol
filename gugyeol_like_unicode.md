@@ -1,4 +1,4 @@
-# gugyeol_like_unicode
+# list of gugyeol-like unicode characters
 
 Below is a list of unicode characters similar in shape to those used in gugyeol in ganada order (가나다順).
 
